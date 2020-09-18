@@ -3809,19 +3809,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ABHISHEK\\.nuget\\packages\\": {}
+    "C:\\Users\\SIDDHARTHA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\TruYum.csproj",
+      "projectUniqueName": "F:\\COGNIZANT\\Azure\\TruYumWebpcheck-master\\TruYum.csproj",
       "projectName": "TruYum",
-      "projectPath": "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\TruYum.csproj",
-      "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-      "outputPath": "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\obj\\",
+      "projectPath": "F:\\COGNIZANT\\Azure\\TruYumWebpcheck-master\\TruYum.csproj",
+      "packagesPath": "C:\\Users\\SIDDHARTHA\\.nuget\\packages\\",
+      "outputPath": "F:\\COGNIZANT\\Azure\\TruYumWebpcheck-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SIDDHARTHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3884,7 +3884,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
